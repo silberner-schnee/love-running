@@ -1,3 +1,12 @@
+ @import url("https://use.typekit.net/xcl6ggo.css");
+
+    *{
+        margin: 0;
+        padding: 0;
+        border: none;
+    }
+
 body {
-    font-family: Arial;
+    font-family: Lato, sans-serif;
+    font-weight: 300; 
 }
